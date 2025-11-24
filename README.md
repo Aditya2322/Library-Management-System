@@ -47,6 +47,9 @@ This project is built using **HTML, CSS, JavaScript, and Vite** and is deployed 
 
 ---
 
+![Library System](https://github.com/Aditya2322/Library-Management-System/blob/main/image.png)
+
+
 ## ▶️ Running the Project Locally
 
 ### 1. Clone the Repository
